@@ -21,7 +21,7 @@ Setting Grafana
     Database
     k6
 
-    ID
+    ID dashboard
     2587
    ```
 K6 test
